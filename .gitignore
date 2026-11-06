@@ -1,0 +1,20 @@
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### Kotlin ###
+.kotlin/
+
+### OS & Local ###
+.DS_Store
+Thumbs.db
+*.log
+local.properties
